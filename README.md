@@ -1,6 +1,6 @@
 ---
 
-## Problem Statement
+## Problem Statement:
 
 **Title**: Sort an Array by Frequency
 
